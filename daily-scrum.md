@@ -18,3 +18,5 @@ This is the time to plan the work for the next 24 hours.
   * Is there something, the team can change now?
   * Longer discussions: please, do it after the daily
   * impediment: ask your Scrum Master for support
+
+![Basic Daily Scrum](img/BasicDailyScrumProcedure.jpg)
