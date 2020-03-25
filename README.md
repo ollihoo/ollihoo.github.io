@@ -7,4 +7,4 @@ Find this content under:
 
 Scrum:
 
-[Daily Scrum](daily-scrum) [markdown](daily-scrum.md)
+[Daily Scrum](http://ollihoo.github.io/daily-scrum) [markdown](daily-scrum.md)
